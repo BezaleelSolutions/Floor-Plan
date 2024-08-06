@@ -32,7 +32,7 @@ o	Use the API and plugin to draw and manipulate elements.
 
 Visual Examples
 
-![Output Example 1]()
+![Output Example 1](https://github.com/BezaleelSolutions/Floor-Plan/blob/main/floor_example1.png)
 
 ![Output Example 2]()
 
