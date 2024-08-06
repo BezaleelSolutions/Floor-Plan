@@ -27,3 +27,12 @@ o	Add the API and floor_plan.js scripts to the header or footer of your HTML pag
 o	Assign the id "floorPlan" to the div where you want to render the floor plan.
 o	Use the API and plugin to draw and manipulate elements.
 ### Example
+
+![Code Example](https://github.com/BezaleelSolutions/Floor-Plan/blob/main/floorplan.png)
+
+Visual Examples
+
+![Output Example 1]()
+
+![Output Example 2]()
+
