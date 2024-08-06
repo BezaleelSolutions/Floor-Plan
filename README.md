@@ -34,5 +34,5 @@ Visual Examples
 
 ![Output Example 1](https://github.com/BezaleelSolutions/Floor-Plan/blob/main/floor_example1.png)
 
-![Output Example 2]()
+![Output Example 2](https://github.com/BezaleelSolutions/Floor-Plan/blob/main/floor_example2.png)
 
