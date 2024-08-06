@@ -202,7 +202,7 @@
                 const y = table.offsetTop;
                 const id = table.id;
 
-                fetch('your-api-endpoint/save-table-position', {
+                fetch('https://floorplan.com/save-table-position', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
