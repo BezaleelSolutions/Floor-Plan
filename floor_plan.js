@@ -11,21 +11,21 @@
 
         async function fetchFloors() {
             // Fetch floors data from the API
-            const response = await fetch('your-api-endpoint/floors');
+            const response = await fetch('https://floorplan.com/floors');
             const data = await response.json();
             return data;
         }
 
         async function fetchTables(floorId) {
             // Fetch tables data from the API for a specific floor
-            const response = await fetch(`your-api-endpoint/tables?floor_id=${floorId}`);
+            const response = await fetch(`https://floorplan.com/tables?floor_id=${floorId}`);
             const data = await response.json();
             return data;
         }
 
         async function fetchBlocks(floorId) {
             // Fetch blocks data from the API for a specific floor
-            const response = await fetch(`your-api-endpoint/blocks?floor_id=${floorId}`);
+            const response = await fetch(`https://floorplan.com/blocks?floor_id=${floorId}`);
             const data = await response.json();
             return data;
         }
